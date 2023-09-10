@@ -19,7 +19,9 @@ The app showcases basic functionality and serves as a portfolio project to demon
 ## Screenshots
 
 
-![App Demo](C:\projects\calculator_app\screenshots\calculator_appdemo.gif)
+
+<img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Demo" width="200" height="350">
 
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
