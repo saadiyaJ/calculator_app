@@ -1,6 +1,7 @@
 # Calculator App with Riverpod and MVC Pattern
 
-![App screenshot](https://drive.google.com/file/d/1JvmQePsSXecd-oHjEUF3eaWx66pmGbHv/view?usp=sharing)
+<img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Screenshot" width="200" height="350">
+<img src="C:\projects\calculator_app\screenshots\calculator_app.png" alt="App Screenshot" width="200" height="350">
 
 ## Introduction
 This is a beginner-level Flutter project that demonstrates the use of Riverpod for state management and follows the MVC (Model-View-Controller) architectural pattern. 
@@ -17,7 +18,8 @@ The app showcases basic functionality and serves as a portfolio project to demon
 
 ## Screenshots
 
-[App Demo](https://youtube.com/shorts/MmBJOSnwKyo)
+
+![App Demo](C:\projects\calculator_app\screenshots\calculator_appdemo.gif)
 
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
