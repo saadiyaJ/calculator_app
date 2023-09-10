@@ -19,12 +19,6 @@ The app showcases basic functionality and serves as a portfolio project to demon
 
 <img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app_demo.gif" alt="App Demo" width="200" height="350">
 
-
-
-<img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Demo" width="200" height="350">
-<img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Demo" width="200" height="350">
->>>>>>> 553dc78d6c8e078cf782bdbe2f82f7425250b89b
-
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
 
@@ -59,7 +53,7 @@ The MVC (Model-View-Controller) pattern is implemented in my app like the follow
 2. View: 
    In the code, the View is represented by the Calculator widget and its associated UI components.
    - How it Presents Data to the User: The View's primary role is to present the user interface (UI) to the user and display the data from the Model. It includes various UI elements such as text fields, buttons, and text widgets for displaying the result. The View renders the current state of the calculator, allowing the user to see and interact with the numbers and operators.
-   -Example Usage: In the code, the Calculator widget builds the UI for the calculator, displaying the result and allowing users to input numbers and perform calculations.
+   - Example Usage: In the code, the Calculator widget builds the UI for the calculator, displaying the result and allowing users to input numbers and perform calculations.
    
 3. Controller:
    In the code, the Controller is represented by the CalculatorNotifier class.
