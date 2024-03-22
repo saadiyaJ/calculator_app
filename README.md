@@ -3,7 +3,7 @@
 <img src="https://github.com/saadiyaJ/calculator_app/blob/main/screenshots/calculator_app.png" alt="App Screenshot" width="200" height="350">
 
 ## Introduction
-This is a beginner-level Flutter project that demonstrates the use of Riverpod for state management and follows the MVC (Model-View-Controller) architectural pattern. 
+This is a beginner-level Flutter project that demonstrates my learnings of how to  use Riverpod for state management and how to follow the MVC (Model-View-Controller) architectural pattern. 
 The app showcases basic functionality and serves as a portfolio project to demonstrate my Flutter development skills.
 
 ## Features
